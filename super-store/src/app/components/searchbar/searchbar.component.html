@@ -1,0 +1,45 @@
+<div class="modal animated slideInUp">
+  <div class="modal-background"></div>
+  <div class="modal-content">
+    <!-- Any other Bulma elements you want -->
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="close" (click)="hideModal()"><i class="fa fa-long-arrow-left"></i></a>
+        <form novalidate (submit)="submit($event)">
+          <input [(ngModel)]="keyword" name="keyword" class="" type="text" placeholder="buscar..">
+        </form>
+      </div>
+
+      <div class="nav-center">
+      </div>
+
+      <div class="nav-right">
+      </div>
+    </nav>
+
+    <div class="container">
+      <article (click)="goTo(item)" class="media animated slideInDown" *ngFor="let item of items">
+        <figure class="media-left">
+          <p class="image is-64x64">
+            <img src="assets/games/{{item.image}}">
+          </p>
+        </figure>
+        <div class="media-content">
+          <div class="content">
+            <p>
+              <strong>{{item.name}}</strong>             
+              <br>
+              <small>{{item.type}} · {{item.year}}</small>
+            </p>
+          </div>
+
+        </div>
+      </article>
+
+      <small *ngIf="keyword==null">digite e pressione enter</small>
+      <small *ngIf="!items.length && submitted == true">nada encontrado =(</small>
+
+    </div>
+
+  </div>
+</div>

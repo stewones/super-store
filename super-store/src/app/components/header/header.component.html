@@ -1,0 +1,29 @@
+<app-searchbar [ngClass]="{'is-hidden':!modal}" (closeSearch)="hideSearch()"></app-searchbar>
+
+<nav class="nav animated slideInDown">
+  <div class="nav-left">
+
+    <!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+    <span class="nav-toggle" (click)="menu.open()">
+    <span></span>
+    <span></span>
+    <span></span>
+    </span>
+
+    <app-logo></app-logo>
+  </div>
+
+
+  <div class="nav-center">
+  </div>
+
+
+
+  <div class="nav-right">
+    <a class="nav-item" (click)="showSearch()">
+      <i class="fa fa-search"></i>
+    </a>
+    <app-cartbar></app-cartbar>
+  </div>
+</nav>

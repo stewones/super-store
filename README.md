@@ -11,7 +11,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - git clone https://github.com/stewwan/sda17-app.git
 - cd sda17-app
-- git checkout aula-x
+- git checkout aula-15
+- cd super-store
 - npm install
 - ng serve
 
@@ -19,8 +20,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - faça o fork do projeto
 - clone o fork em sua maquina
-- crie uma nova branch. ex: `git checkout -b fix/aula-x`
-- faça o push da nova branch pro seu fork `git push origin fix/aula-x`
+- crie uma nova branch. ex: `git checkout -b fix/aula-15`
+- faça o push da nova branch pro seu fork `git push origin fix/aula-15`
 - abra um pull request
 
 # Treinamento
