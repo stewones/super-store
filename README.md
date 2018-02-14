@@ -21,8 +21,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - faça o fork do projeto
 - clone o fork em sua maquina
-- crie uma nova branch. ex: `git checkout -b fix/aula-1`
-- faça o push da nova branch pro seu fork `git push origin fix/aula-1`
+- crie uma nova branch. ex: `git checkout -b fix/aula-2`
+- faça o push da nova branch pro seu fork `git push origin fix/aula-2`
 - abra um pull request
 
 # Treinamento
