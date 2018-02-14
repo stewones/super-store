@@ -1,0 +1,44 @@
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img src="assets/games/{{product.image}}" alt="Image" />
+    </figure>
+  </div>
+
+  <div class="card-content">
+
+    <div class="columns is-mobile">
+      <div class="column">
+        <h2 class="title is-4"><a [routerLink]="product.router">{{ product.name }}</a></h2>
+      </div>
+      <div class="column is-one-third has-text-right" *ngIf="view==false">
+        <span class="tag is-warning is-medium">{{ product.price |  currency:'BRL':true }}</span>
+      </div>
+    </div>
+
+    <div class="content" *ngIf="view==true">
+      <small class="year">Ano: {{ product.year }}</small>
+      <br />
+      <div [innerHTML]="product.description"> </div>
+    </div>
+  </div>
+
+  <footer class="card-footer">
+    <div class="card-footer-item" *ngIf="view==true">
+      <span class="icon">
+        <i class="fa fa-bolt"></i>
+      </span>
+      <small>{{ product.type }} · {{ product.price |  currency:'BRL':true }}</small>
+    </div>
+    <a class="card-footer-item" [routerLink]="product.router" *ngIf="view==false">
+      <span class="icon">
+        <i class="fa fa-share"></i>
+      </span>
+      </a>
+    <a class="card-footer-item" (click)="addToCart(product)">
+      <span class="icon">
+        <i class="fa fa-cart-plus"></i>
+      </span>
+    </a>
+  </footer>
+</div>
