@@ -1,6 +1,6 @@
 # Semana do Angular 2017 app
 
-Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evoluida através de branches.
+Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evoluida através de branches específicas nomeadas no padrão `aula-x`. ex: `aula-1`
 
 # Requerimentos
 
@@ -19,8 +19,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - faça o fork do projeto
 - clone o fork em sua maquina
-- crie uma nova branch. ex: `git checkout -b fix/aula-1`
-- faça o push da nova branch pro seu fork `git push origin fix/aula-1`
+- crie uma nova branch. ex: `git checkout -b fix/aula-x`
+- faça o push da nova branch pro seu fork `git push origin fix/aula-x`
 - abra um pull request
 
 # Treinamento
