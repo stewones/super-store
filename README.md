@@ -11,7 +11,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - git clone https://github.com/stewwan/sda17-app.git
 - cd sda17-app
-- git checkout aula-x
+- git checkout aula-4
+- cd teste-bulma
 - npm install
 - ng serve
 
