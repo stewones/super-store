@@ -1,0 +1,33 @@
+<section class="hero outer is-fullheight animated slideInLeft" [ngClass]="{'is-hidden': !menu.opened}">
+  <div class="hero-body outer">
+    <div class="container">
+
+      <section class="hero inner is-danger is-bold animated fadeIn">
+        <div class="hero-body inner">
+          <div class="container">
+            <img src="assets/avatar.png" />
+          </div>
+        </div>
+      </section>
+
+      <br />
+
+      <ul>
+        <li *ngFor="let option of menu.options">
+          <a class="columns is-mobile" [routerLink]="option.route">
+            <div class="column has-text-right is-one-quarter">
+              <i class="{{ option.icon }}"></i>
+            </div>
+            <div class="column">
+              <strong>
+                {{ option.text }}
+              </strong>
+            </div>
+          </a>
+        </li>
+      </ul>
+
+
+    </div>
+  </div>
+</section>
