@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Street Fighter",
+        "year": 1990,
+        "price": 9.90,
+        "type": "Luta",
+        "image": "street-fighter.jpg",
+        "description": "Street Fighter, popularmente abreviado para SF, é uma popular série de jogos de luta na qual o jogador controla lutadores de diversas partes do mundo, cada qual com seus golpes especiais."
+    },
+    {
+        "id": 2,
+        "name": "Mortal Kombat",
+        "year": 1992,
+        "price": 9.90,
+        "type": "Luta",
+        "image": "mortal-kombat.jpg",
+        "description": "Mortal Kombat é uma série de jogos criados pelo estúdio de Chicago da Midway Games. Em 2011, depois da falência da Midway, a produção de Mortal Kombat foi adquirida pela Warner Bros, tonando-se de seguida na Netherealm"
+    },
+    {
+        "id": 3,
+        "name": "Top Gear",
+        "year": 1992,
+        "price": 9.90,
+        "type": "Corrida",
+        "image": "topgear.jpg",
+        "description": "Top Gear, conhecido no Japão como Top Racer é um jogo eletrônico lançado em 1992 para o Super NES. Foi desenvolvido pela Gremlin Graphics e publicado pela Kemco. Este é o primeiro jogo da franquia Top Gear."
+    },
+    {
+        "id": 4,
+        "name": "Super Mario World",
+        "year": 1990,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "mario.jpg",
+        "description": "Super Mario World, subintitulado Super Mario Bros. 4 na versâo japonesa, é um jogo de plataforma desenvolvido e publicado pela Nintendo como um título que acompanhava o console Super Nintendo Entertainment System."
+    },
+    {
+        "id": 5,
+        "name": "F-Zero",
+        "year": 1990,
+        "price": 9.90,
+        "type": "Corrida",
+        "image": "fzero.jpg",
+        "description": "F-Zero é um jogo de corrida futurista de SNES desenvolvido pela Nintendo e publicado pela mesma em 1990 no Japão e em 1991 nos Estados Unidos. É o primeiro título da série de videojogos e foi relançado no Virtual Console para Wii, Wii U e 3DS."
+    },
+    {
+        "id": 6,
+        "name": "Mega Man III",
+        "year": 1990,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "megaman.png",
+        "description": "Mega Man III é um jogo de videogame criado pela Capcom em 1990. Foi lançado somente para o Nintendo Entertainment System, e faz parte da série Mega Man, composta de oito episódios."
+    },
+    {
+        "id": 7,
+        "name": "Metal Gear 2: Solid Snake",
+        "year": 1990,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "metal-gear.jpg",
+        "description": "Metal Gear 2: Solid Snake é um jogo de espionagem escrito e dirigido por Hideo Kojima, e desenvolvido e publicado pela Konami."
+    },
+    {
+        "id": 8,
+        "name": "Cadillacs and Dinosaurs",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "cdino.jpg",
+        "description": "Cadillacs and Dinosaurs é um jogo de beat 'em up para arcade lançado em 1993 pela Capcom e baseado nos quadrinhos Xenozoic Tales de Mark Schultz."
+    },
+    {
+        "id": 9,
+        "name": "Captain Commando",
+        "year": 1991,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "captain.jpg",
+        "description": "Capitão Comando é jogo de arcade produzido pela Capcom em 1991, tendo como personagem principal Captain Commando. É um jogo no estilo beat 'em up, que se passa em Metro City no ano de 2026."
+    },
+    {
+        "id": 10,
+        "name": "Final Fight",
+        "year": 1989,
+        "price": 9.90,
+        "type": "Luta",
+        "image": "final-fight.jpg",
+        "description": "Final Fight é um jogo eletrônico beat-'em-up side-scrolling originalmente lançado pela Capcom como um video game operado a base de moedas em 1989, um dos jogos mais famosos para esse estilo de jogo."
+    },
+    {
+        "id": 11,
+        "name": "Goof Troop",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "goof.jpg",
+        "description": "Goof Troop é um jogo de ação-aventura e puzzles desenvolvido pela Capcom e lançado em 1993 na América do Norte e Europa e em 1994 no Japão. O jogo é baseado na série de mesmo nome."
+    },
+    {
+        "id": 12,
+        "name": "Chrono Trigger",
+        "year": 1999,
+        "price": 9.90,
+        "type": "RPG",
+        "image": "chrono.jpg",
+        "description": "Chrono Trigger é um jogo de RPG eletrônico desenvolvido pela Square Co. Foi lançado para o console Super Nintendo no Japão em março de 1995, e uma versão aprimorada para PlayStation foi lançada em novembro de 1999."
+    },
+    {
+        "id": 13,
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "year": 1998,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "zelda.jpg",
+        "description": "The Legend of Zelda: Ocarina of Time é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Nintendo EAD para o console Nintendo 64"
+    },
+    {
+        "id": 14,
+        "name": "Diablo",
+        "year": 1994,
+        "price": 9.90,
+        "type": "RPG",
+        "image": "diablo.jpg",
+        "description": "Diablo é um jogo de computador estilo Action RPG, passado em época medieval fictícia. Produzido pela Blizzard North e distribuído pela Blizzard Entertainment, foi lançado em 1996"
+    },
+    {
+        "id": 15,
+        "name": "Donkey Kong Country",
+        "year": 1994,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "dk.jpg",
+        "description": "Donkey Kong Country é um jogo de plataforma em 2D desenvolvido pela Rare e publicado pela Nintendo para o Super Nintendo Entertainment System. Foi lançado em Novembro de 1994, sob o nome Super Donkey Kong no Japão. "
+    },
+    {
+        "id": 16,
+        "name": "Doom",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Tiro",
+        "image": "doom.jpg",
+        "description": "Doom é um jogo de computador lançado em 1993 pela id Software e um dos títulos que geraram o gênero tiro em primeira pessoa"
+    },
+    {
+        "id": 17,
+        "name": "Tomb Raider",
+        "year": 1995,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "tomb.jpg",
+        "description": "Tomb Raider é um jogo de videogame desenvolvido pela Core Design e publicado pela Eidos Interactive. Ele foi lançado originalmente em 1996 para o Sega Saturn, e depois para o MS-DOS e PlayStation."
+    },
+    {
+        "id": 18,
+        "name": "Super Metroid",
+        "year": 1994,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "sm.jpg",
+        "description": "Super Metroid, conhecido também por Metroid 3, é um jogo eletrônico de plataforma com elementos de ação e aventura lançado em 1994 para o Super Nintendo Entertainment System"
+    },
+    {
+        "id": 19,
+        "name": "Killer Instinct",
+        "year": 1994,
+        "price": 9.90,
+        "type": "Luta",
+        "image": "ki.jpg",
+        "description": "Killer Instinct é um jogo de luta para arcades desenvolvido pela Rare, lançado em 1994. Ele teve uma versão para o Super Nintendo, lançada em 1995 e para o Game Boy"
+    },
+    {
+        "id": 20,
+        "name": "Pokémon",
+        "year": 1996,
+        "price": 9.90,
+        "type": "RPG",
+        "image": "pokemon.jpg",
+        "description": "Pokémon Red Version e Pokémon Blue Version são as versões ocidentais dos primeiros jogos da série multimilionária Pokémon."
+    },
+    {
+        "id": 21,
+        "name": "Sonic the Hedgehog 2",
+        "year": 1992,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "sonic2.jpg",
+        "description": "Sonic the Hedgehog 2, ou Sonic 2, é um jogo eletrônico de plataforma lançado em 1992 em 16-bit para o Mega Drive. É o segundo jogo da série Sonic"
+    },
+    {
+        "id": 22,
+        "name": "Golden Axe II",
+        "year": 1991,
+        "price": 9.90,
+        "type": "Luta",
+        "image": "ga.jpg",
+        "description": "Golden Axe II é um jogo de combate, liberado para o Sega Mega Drive em 26 de dezembro de 1991. É a continuação do popular jogo:Golden Axe, que marca o segundo jogo da série"
+    },
+    {
+        "id": 23,
+        "name": "Sunset Riders",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Aventura",
+        "image": "sunset.jpg",
+        "description": "Sunset Riders é um jogo de faroeste, no estilo plataforma, desenvolvido pela Konami em 1991 para arcade. Posteriormente em 1992 e 1993 foi portado para os consoles Mega Drive e Super Nintendo"
+    },
+    {
+        "id": 24,
+        "name": "Rock N' Roll Racing",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Corrida",
+        "image": "rock.jpg",
+        "description": "Rock N' Roll Racing é um jogo eletrônico de corrida que possui um estilo único para um jogo de 1993. "
+    },
+    {
+        "id": 25,
+        "name": "Super Bomberman",
+        "year": 1993,
+        "price": 9.90,
+        "type": "Estratégia",
+        "image": "bomber.jpg",
+        "description": "Super Bomberman é um jogo da série Bomberman lançado para Super Famicom. É o primeiro jogo desta série a ser lançado para o console."
+    }
+]
