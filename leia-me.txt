@@ -1,1 +1,0 @@
-1 - execute o comando `npm install` na raiz do projeto para baixar as dependencias contidas no arquivo package.json
