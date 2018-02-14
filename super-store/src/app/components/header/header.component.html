@@ -1,0 +1,26 @@
+<nav class="nav">
+  <div class="nav-left">
+
+    <!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+    <span class="nav-toggle">
+    <span></span>
+    <span></span>
+    <span></span>
+    </span>
+
+    <app-logo></app-logo>
+
+  </div>
+
+  <div class="nav-center">
+  </div>
+
+
+  <div class="nav-right">
+    <a class="nav-item" (click)="showSearch()">
+      <i class="fa fa-search"></i>
+    </a>
+    <app-cartbar></app-cartbar>
+  </div>
+</nav>
