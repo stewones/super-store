@@ -5,15 +5,20 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 # Requerimentos
 
 - Node/NPM instalados
-- Angular CLI
+- [Angular CLI](https://cli.angular.io/)
+
+# Instalação 
+
+### Angular CLI
+`npm install -g @angular/cli`
 
 # Setup
 
 - git clone https://github.com/stewwan/sda17-app.git
-- cd sda17-app
-- git checkout aula-x
-- npm install
-- ng serve
+- `cd sda17-app`
+- `git checkout aula-x`
+- `npm install`
+- `ng serve`
 
 # Conteúdo
 
@@ -42,11 +47,11 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 # Contribuindo
 
-- faça o fork do projeto
-- clone o fork em sua maquina
-- crie uma nova branch. ex: `git checkout -b fix/aula-x`
-- faça o push da nova branch pro seu fork `git push origin fix/aula-x`
-- abra um pull request
+- **faça o fork do projeto**
+- **clone o fork em sua maquina**
+- **crie uma nova branch. ex:** `git checkout -b fix/aula-x`
+- **faça o push da nova branch pro seu fork** `git push origin fix/aula-x`
+- **abra um pull request**
 
 # Treinamento
 
