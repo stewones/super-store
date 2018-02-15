@@ -3,12 +3,15 @@
 Antes de enviar sua contribuição, tenha em mente no que deseja melhorar e envie seu PR a partir da branch correta 
 
 - Branch `master`
+
 Contém detalhes sobre o projeto, envie alterações a nível de instrução.
 
 - Branch `aula-x`
+
 Contém o código fonte utilizado para gravação, envie alterações pertinentes a aula.
 
 - Branch `develop`
+
 Contém a aplicação atualizada e melhorias de qualquer natureza.
 
 # Workflow
