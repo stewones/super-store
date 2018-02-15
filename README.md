@@ -2,8 +2,6 @@
 
 > Esta é a aplicação desenvolvida durante o workshop [Semana do Angular 2017](http://www.semanadoangular.com.br). Cada aula é evoluida através de branches específicas nomeadas no padrão `aula-x`. ex: `aula-1`
 
-<img src="https://i.imgur.com/f5fQSr3.gif" alt="Super Store PWA" />
-
 # Requerimentos
 
 - Node/NPM instalados
@@ -47,18 +45,15 @@
 - [Aula 21 - Realizando deploy no Github Pages](https://github.com/stewwan/super-store/tree/aula-21)
 - [Aula 22 - Configurando a PWA](https://github.com/stewwan/super-store/tree/aula-22)
 
+<img src="https://i.imgur.com/f5fQSr3.gif" alt="Super Store PWA" />
+
 # Contribuindo
 
-1. faça o fork do projeto
-2. clone o fork em sua maquina
-3. crie uma nova branch. ex: `git checkout -b fix/aula-x`
-4. faça as alterações necessárias e commite
-5. faça o push da nova branch pro seu fork `git push origin fix/aula-x`
-6. abra um pull request
+Veja o arquivo [CONTRIBUTING](https://github.com/stewwan/super-store/blob/master/CONTRIBUTING.md)
 
 # Treinamento
 
-Veja as vídeo aulas deste treinamento na plataforma [Udemy](). Utilize o cupom de desconto `sda17-workshop`.
+Assista as vídeo aulas deste treinamento na plataforma do [Udemy](). Utilize o cupom de desconto `sda17-workshop`.
 
 # License
 
