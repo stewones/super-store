@@ -5,7 +5,7 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 # Requerimentos
 
 - Node/NPM instalados
-- (Angular CLI) [https://cli.angular.io/]
+- [Angular CLI](https://cli.angular.io/)
 
 # Instalação 
 
