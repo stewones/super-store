@@ -5,7 +5,7 @@ Antes de enviar sua contribuição, tenha em mente no que deseja melhorar e envi
 - Branch `master`
 Contém detalhes sobre o projeto, envie alterações a nível de instrução.
 
-- Branche `aula-x`
+- Branch `aula-x`
 Contém o código fonte utilizado para gravação, envie alterações pertinentes a aula.
 
 - Branch `develop`
