@@ -9,8 +9,8 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 # Setup
 
-- git clone https://github.com/stewwan/sda17-app.git
-- cd sda17-app
+- git clone https://github.com/stewwan/super-store.git
+- cd super-store
 - git checkout aula-12
 - cd super-store
 - npm install
@@ -26,7 +26,7 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 # Treinamento
 
-Veja as vídeo aulas deste treinamento na plataforma [Udemy](). Utilize o cupom de desconto `sda17-workshop`.
+Veja as vídeo aulas deste treinamento na plataforma [Udemy](https://www.udemy.com/semana-do-angular-2017). Utilize o cupom de desconto `sda17-workshop`.
 
 # License
 
