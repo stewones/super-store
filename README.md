@@ -53,7 +53,7 @@ Veja o arquivo [CONTRIBUTING](https://github.com/stewwan/super-store/blob/master
 
 # Treinamento
 
-Assista as vídeo aulas deste treinamento na plataforma do [Udemy](). Utilize o cupom de desconto `sda17-workshop`.
+Assista as vídeo aulas deste treinamento na plataforma do [Udemy](https://www.udemy.com/semana-do-angular-2017). Utilize o cupom de desconto `sda17-workshop`.
 
 # License
 
