@@ -25,7 +25,7 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 # Treinamento
 
-Veja as vídeo aulas deste treinamento na plataforma [Udemy](https://www.udemy.com/semana-do-angular-2017). Utilize o cupom de desconto `sda17-workshop`.
+Veja as vídeo aulas deste treinamento na plataforma [Udemy](https://www.udemy.com/semana-do-angular-2017). Utilize o cupom de desconto `SDA17-WORKSHOP`.
 
 # License
 
