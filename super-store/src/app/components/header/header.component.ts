@@ -14,9 +14,9 @@ export class HeaderComponent implements OnInit {
   ngOnInit() {
     document.addEventListener('scroll', (e) => {
       if (document.body.scrollTop > 65) {
-        $('app-header nav').addClass('fixed');
+        $('app-header nav').addClass('is-fixed-top');
       } else {
-        $('app-header nav').removeClass('fixed');
+        $('app-header nav').removeClass('is-fixed-top');
       }
       this.menu.fix();
     }, true);
